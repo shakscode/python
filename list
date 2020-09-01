@@ -1,0 +1,12 @@
+lists in python
+car = ["bmw", "aUDI"]
+###methond are declared as .method()
+
+car.extend([["ciera"]]) ###extnd nested list
+car.extend(["ciera"]) #extend another value in the list
+car.append("maybac, nano") #append the value to last
+###append add multiple value as single value, extend method add as a individual array.
+del car [-1]### de;ete last value
+print car[-1]
+car.insert(0, "benz") ###define position and insert
+
